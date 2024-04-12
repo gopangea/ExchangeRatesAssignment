@@ -1,4 +1,4 @@
-﻿namespace ExchangeRatesAssignment.Api.Contracts
+﻿namespace ExchangeRatesAssignment.Api
 {
     public class PangeaExchangeRate
     {
