@@ -1,4 +1,4 @@
-﻿namespace ExchangeRatesAssignment.Api.Domain
+﻿namespace ExchangeRatesAssignment.Api
 {
     public class PartnerRate 
     {

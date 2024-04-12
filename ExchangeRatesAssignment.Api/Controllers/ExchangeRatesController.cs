@@ -1,5 +1,5 @@
 using Microsoft.AspNetCore.Mvc;
-using ExchangeRatesAssignment.Api.Contracts;
+using ExchangeRatesAssignment.Api;
 
 namespace ExchangeRatesAssignment.Api.Controllers
 {
